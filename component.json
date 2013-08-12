@@ -1,0 +1,14 @@
+{
+  "name": "daigos.github.io",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies" : {
+    "jquery": "1.10.2",
+    "hammerjs": "latest",
+    "threejs": "latest"
+  }
+}
